@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\bin\Debug\IntroduccionWindowsForms.exe.config
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\bin\Debug\IntroduccionWindowsForms.exe
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\bin\Debug\IntroduccionWindowsForms.pdb
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.Form1.resources
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.Properties.Resources.resources
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.exe
+C:\Users\Usuario\Documents\MAJO\PROYECTOS\Repaso Evaluación GLOBAL FINANCES y PCNUB\WindowsForms_Introduccion\IntroduccionWindowsForms\IntroduccionWindowsForms\obj\Debug\IntroduccionWindowsForms.pdb
